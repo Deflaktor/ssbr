@@ -1,0 +1,9 @@
+*.iso
+*.wbfs
+*.tmp
+brawl/DATA
+brawl/UPDATE
+lib/
+temp/
+tools/wit
+~$*
